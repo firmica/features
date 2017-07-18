@@ -1,4 +1,10 @@
 Hi from read me...
 - This is first modification.
 
--this is first line of code $x = 5
+-We are on the develop branch, 
+
+-we are adding a new feature here
+
+-This is new awsome feature, push this to git huba
+
+-add login
